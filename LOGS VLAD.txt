@@ -1,0 +1,5 @@
+DEC 20:
+- ingelogd op classrooms
+- GitKraken gedownload
+- Processing gedownload
+- H01: Ontwikkelomgeving voltooid
