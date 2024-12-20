@@ -1,6 +1,7 @@
 DEC 20:
-- ingelogd op classrooms
+- ingelogd op classrooms (pc en laptop)
 - GitKraken gedownload
 - Processing gedownload
 - H01: Ontwikkelomgeving voltooid
 - H02: Text in Kleur voltooid
+- H03: Tekenen voltooid
