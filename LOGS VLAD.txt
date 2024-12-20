@@ -3,3 +3,4 @@ DEC 20:
 - GitKraken gedownload
 - Processing gedownload
 - H01: Ontwikkelomgeving voltooid
+- H02: Text in Kleur voltooid
