@@ -5,3 +5,6 @@ DEC 20:
 - H01: Ontwikkelomgeving voltooid
 - H02: Text in Kleur voltooid
 - H03: Tekenen voltooid
+
+DEC 22:
+- Spiekbriefje gemaakt
