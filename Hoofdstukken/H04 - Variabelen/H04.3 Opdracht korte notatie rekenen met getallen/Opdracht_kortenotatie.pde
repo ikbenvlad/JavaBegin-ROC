@@ -1,6 +1,9 @@
-int a = 69;
-int b = 420;
-int c = 46290;
+int a;
+a = 69;
+int b;
+b = 420;
+int c;
+c = 46290;
 
 a *= 10;
 b /= 10;
