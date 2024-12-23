@@ -12,3 +12,4 @@ DEC 22:
 DEC 23:
 - H04 Variabelen voltooid
 - H05 Text Variabelen voltooid
+- H06 True en False voltooid
