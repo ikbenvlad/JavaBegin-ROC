@@ -8,3 +8,6 @@ DEC 20:
 
 DEC 22:
 - Spiekbriefje gemaakt
+
+DEC 23:
+- H04 Variabelen voltooid
