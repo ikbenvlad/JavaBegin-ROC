@@ -17,3 +17,4 @@ DEC 23:
 DEC 24:
 - H07 Switch Cases en Haakjes voltooid
 - H08 For en While Loops voltooid
+- H09 Methodes en Functies voltooid
