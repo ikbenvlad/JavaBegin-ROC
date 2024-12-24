@@ -13,3 +13,6 @@ DEC 23:
 - H04 Variabelen voltooid
 - H05 Text Variabelen voltooid
 - H06 True en False voltooid
+
+DEC 24:
+- H07 Switch Cases en Haakjes voltooid
