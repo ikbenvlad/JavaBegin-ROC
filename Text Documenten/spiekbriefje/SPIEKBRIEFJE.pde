@@ -118,3 +118,53 @@ geeft:
 
 een blauwe cirkel met een diameter van 120 (radius van 60).
 */
+
+/*
+void setup(){}:
+Het is eigenlijk de basis van de sketch en wordt gebruikt als een soort van "body".
+Het wordt 1 keer herhaald.
+*/
+
+/*
+void draw(){};
+Dit is ook een deel van de basis. Het wordt meerdere keren herhaald om op de scherm te
+tekenen.
+
+framerate(int):
+De framerate geeft aan hoe vaak per seconde de draw (void draw of draw) functie wordt
+gebruikt.
+
+VOORBEELD:
+framerate(5);
+
+geeft:
+
+De draw functie wordt 5 keer per seconde uitgevoerd.
+*/
+
+/*
+noLoop:
+zorgt ervoor dat een draw functie niet wordt herhaald.
+
+loop:
+zorgt ervoor dat het weer gaat loopen (herhalen).
+
+redraw:
+zorgt ervoor dat de draw functie maar 1 keer herhaald. Dit heeft geen zin als jij de
+loop() functie gebruikt.
+*/
+
+/*
+//:
+commentaar voor een specifieke lijn.
+
+VOORBEELD:
+//dit wordt gezien als commentaar
+dit wordt niet gezien als commentaar
+*/
+
+// /**/:
+/*
+Meerlijnige commentaar. Alles tussen de ** wordt gezien als commentaar (wordt gebruikt
+voor deze hele sketch).
+*/
