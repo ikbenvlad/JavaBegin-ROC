@@ -22,3 +22,6 @@ DEC 24:
 DEC 25:
 - H11 Arrays voltooid
 - Spiekbriefje ge-update
+
+JAN 7:
+- H15 Classes voltooid
