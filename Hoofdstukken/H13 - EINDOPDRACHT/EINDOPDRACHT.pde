@@ -147,7 +147,7 @@ void resetGame(){
   gameOver = false;
 }
 
-/* ERRORS / BUGS DIE IK BEN TEGENGEKOMEN:
+/* ERRORS/BUGS DIE IK BEN TEGENGEKOMEN:
 
 - Input Over-rides -
 Als een speler constant zit te bewegen, en de andere speler een input geeft, stopt de eerste speler met bewegen.
