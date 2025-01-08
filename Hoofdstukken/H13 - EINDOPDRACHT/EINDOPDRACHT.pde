@@ -147,8 +147,7 @@ void resetGame(){
   gameOver = false;
 }
 
-/* 
-ERRORS / BUGS DIE IK BEN TEGENGEKOMEN:
+/* ERRORS / BUGS DIE IK BEN TEGENGEKOMEN:
 
 - Input Over-rides -
 Als een speler constant zit te bewegen, en de andere speler een input geeft, stopt de eerste speler met bewegen.
@@ -158,6 +157,4 @@ Spelers over-riden inputs van elkaar.
 Hitboxes zijn niet correct, hitbox van de left Paddle (speler 1) is kleiner dan de vorm, terwijl de right Paddle (speler 2) een groter hitbox heeft.
 
 - Bal loopt een beetje vast -
-Bal stuitert heen en weer tegen een vand de Paddles aan. Komt waarschijnlijk door collision.
-
-*/
+Bal stuitert heen en weer tegen een vand de Paddles aan. Komt waarschijnlijk door collision. */
