@@ -8,7 +8,7 @@ if(a < 2){
 }else if(a < 20){
   println("je bent een tiener. " + true);
 }else if(a < 25){
-  println("je bent een adolescent . " + true);
+  println("je bent een adolescent. " + true);
 }else if(a > 25){
   println("je bent een volwassene. " + true);
 }
