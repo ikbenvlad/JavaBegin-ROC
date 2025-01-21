@@ -18,7 +18,7 @@ void setup(){
   rightPaddleY = height/2 - paddleHeight/2;
 }
 
-// Bal snelheid, achtergrond
+// Bal snelheid, op en neer gaan, collision detection
 void draw(){
   background(0);
   
@@ -55,6 +55,7 @@ void draw(){
     resetBall();
   }
   
+  // tekenen van bal, paddles
   fill(255);
   noStroke();
   ellipse(ballX, ballY, ballSize, ballSize);
